@@ -44,7 +44,7 @@ pkg install nodejs git -y
 ### Step 2: Clone Project
 
 ```bash
-git clone https://github.com/rashed711/whatsapp-bot-free
+git clone https://github.com/Gabriell-hyck/bot-wamonitoring
 cd whatsapp-bot-free
 ```
 
